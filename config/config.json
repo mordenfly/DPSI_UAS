@@ -1,0 +1,9 @@
+{
+    "development": {
+      "username": "alhabani",
+      "password": "alhabani03",
+      "database": "my_database",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    }
+  }
